@@ -1,1 +1,14 @@
-/*# sourceMappingURL=style.css.map */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.nav ul {
+  text-align: center;
+  display: block;
+}
+.nav ul a {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.5em;
+}/*# sourceMappingURL=style.css.map */
