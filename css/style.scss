@@ -13,8 +13,32 @@ body {
         text-decoration: none;
         font-weight: bold;
         font-size: 1.5em;
+        padding: 0 1em 0 1em;
         }
     }
 }
 
 // end of nav, start of main content ------------->
+
+.landing{
+    .landingWrapper{
+        width: 100%;
+        margin: 0;
+        border: 1px solid black;
+        height: 100vh;
+        .landingLeft{
+            width: 50%;
+            margin: 0;
+            border: 1px solid black;
+            height: 100vh;
+            text-align: center;
+            ul {
+                list-style-type: none;
+                display: block;
+            }
+        }
+        .landingRight {
+            border: 1px solid black;
+        }
+    }
+}
