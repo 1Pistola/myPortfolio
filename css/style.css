@@ -33,4 +33,24 @@ body {
 }
 .landing .landingWrapper .landingRight {
   border: 1px solid black;
+}
+
+.recentProjects {
+  width: 100%;
+  height: 100vh;
+}
+.recentProjects projectsLeft {
+  border: 1px solid black;
+  width: 50%;
+  height: 100vh;
+}
+.recentProjects projectsRight {
+  border: 1px solid black;
+  width: 50%;
+  height: 100vh;
+}
+
+footer {
+  width: 100%;
+  height: 15%;
 }/*# sourceMappingURL=style.css.map */
