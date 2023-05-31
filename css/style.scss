@@ -42,6 +42,14 @@ body {
             margin: 0;
             height: 100vh;
             text-align: center;
+            align-items: flex-start;
+                .pictureframe{
+                    border: 1px solid black;
+                    width: 300px;
+                    height: 400px;
+                    color: aqua;
+                    a
+            }   
         }
     }
 }
@@ -65,4 +73,6 @@ footer {
     height: 15%;
     border: 1px solid black;
     color: aliceblue;
+    text-decoration: none;
+    font-style: italic;
 }
